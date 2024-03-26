@@ -1,0 +1,293 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Toplantıya katıl..",
+      "status": "job",
+      "date": "02.02.2024"
+    },
+    {
+      "id": "2",
+      "text": "Proje sunumu hazırla.",
+      "status": "school",
+      "date": "02.10.2024"
+    },
+    {
+      "id": "3",
+      "text": "Sunum için notlar al",
+      "status": "import.",
+      "date": "02.16.2024"
+    },
+    {
+      "id": "4",
+      "text": "Alışveriş yap",
+      "status": "daily",
+      "date": "02.20.2024"
+    },
+    {
+      "id": "5",
+      "text": "Egzersiz yap",
+      "status": "daily",
+      "date": "02.25.2024"
+    },
+    {
+      "id": "6",
+      "text": "Rapor hazırla",
+      "status": "job",
+      "date": "02.28.2024"
+    },
+    {
+      "id": "7",
+      "text": "Matematik ödevi",
+      "status": "school",
+      "date": "03.04.2024"
+    },
+    {
+      "id": "8",
+      "text": "E-postaları yanıtla",
+      "status": "import.",
+      "date": "03.12.2024"
+    },
+    {
+      "id": "10",
+      "text": "Raporları gönder...",
+      "status": "job",
+      "date": "03.20.2024"
+    },
+    {
+      "id": "a6581311-ea6a-4da0-b6bd-4038ff829538",
+      "text": "deneme",
+      "status": "important",
+      "date": "2024-03-26T03:30:04.051Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "zxc1234",
+      "name": "Ati",
+      "lastname": "Yılmaz",
+      "age": "25",
+      "country": "Turkey",
+      "email": "ati@example.com",
+      "phone": "+90555******",
+      "gender": "Male",
+      "marital_status": "Single",
+      "national_id": "TR12345678901",
+      "status": "inactive",
+      "preferences": {
+        "theme": "dark",
+        "language": "Turkish"
+      }
+    },
+    {
+      "id": "zxc1235",
+      "name": "Enes",
+      "lastname": "Kaya",
+      "age": "30",
+      "country": "USA",
+      "email": "enes@example.com",
+      "phone": "+1202555******",
+      "gender": "Male",
+      "marital_status": "Married",
+      "national_id": "US123456789012",
+      "status": "active",
+      "preferences": {
+        "theme": "light",
+        "language": "English"
+      }
+    },
+    {
+      "id": "zxc1236",
+      "name": "Burak",
+      "lastname": "Demir",
+      "age": "28",
+      "country": "Germany",
+      "email": "burak@example.com",
+      "phone": "+49152555******",
+      "gender": "Male",
+      "marital_status": "Single",
+      "national_id": "DE1234567890123",
+      "status": "inactive",
+      "preferences": {
+        "theme": "light",
+        "language": "German"
+      }
+    },
+    {
+      "id": "zxc1237",
+      "name": "Selim",
+      "lastname": "Aydın",
+      "age": "26",
+      "country": "France",
+      "email": "selim@example.com",
+      "phone": "+330555******",
+      "gender": "Male",
+      "marital_status": "Married",
+      "national_id": "FR123456789012",
+      "status": "active",
+      "preferences": {
+        "theme": "dark",
+        "language": "French"
+      }
+    },
+    {
+      "id": "zxc1238",
+      "name": "Ezgi",
+      "lastname": "Arslan",
+      "age": "27",
+      "country": "UK",
+      "email": "ezgi@example.com",
+      "phone": "+4407555******",
+      "gender": "Female",
+      "marital_status": "Single",
+      "national_id": "UK12345678901",
+      "status": "active",
+      "preferences": {
+        "theme": "light",
+        "language": "English"
+      }
+    },
+    {
+      "id": "zxc1239",
+      "name": "Aslı",
+      "lastname": "Yıldız",
+      "age": "29",
+      "country": "Canada",
+      "email": "asli@example.com",
+      "phone": "+1604555******",
+      "gender": "Female",
+      "marital_status": "Married",
+      "national_id": "CA123456789012",
+      "status": "inactive",
+      "preferences": {
+        "theme": "dark",
+        "language": "English"
+      }
+    },
+    {
+      "id": "zxc1240",
+      "name": "Deniz",
+      "lastname": "Okan",
+      "age": "31",
+      "country": "Australia",
+      "email": "deniz@example.com",
+      "phone": "+611300555******",
+      "gender": "Male",
+      "marital_status": "Single",
+      "national_id": "AU12345678901",
+      "status": "active",
+      "preferences": {
+        "theme": "light",
+        "language": "English"
+      }
+    },
+    {
+      "id": "zxc1241",
+      "name": "Emre",
+      "lastname": "Koç",
+      "age": "24",
+      "country": "Italy",
+      "email": "emre@example.com",
+      "phone": "+390555******",
+      "gender": "Male",
+      "marital_status": "Married",
+      "national_id": "IT12345678901",
+      "status": "active",
+      "preferences": {
+        "theme": "dark",
+        "language": "Italian"
+      }
+    },
+    {
+      "id": "zxc1242",
+      "name": "Gizem",
+      "lastname": "Sönmez",
+      "age": "32",
+      "country": "Spain",
+      "email": "gizem@example.com",
+      "phone": "+3409555******",
+      "gender": "Female",
+      "marital_status": "Single",
+      "national_id": "ES123456789012",
+      "status": "active",
+      "preferences": {
+        "theme": "light",
+        "language": "Spanish"
+      }
+    },
+    {
+      "id": "zxc1243",
+      "name": "Can",
+      "lastname": "Turan",
+      "age": "33",
+      "country": "Brazil",
+      "email": "can@example.com",
+      "phone": "+550555******",
+      "gender": "Male",
+      "marital_status": "Married",
+      "national_id": "BR123456789012",
+      "status": "active",
+      "preferences": {
+        "theme": "dark",
+        "language": "Portuguese"
+      }
+    }
+  ],
+  "activity": [
+    {
+      "id": "qwe1234",
+      "info": "hesap admin tarafından bloke edildi.",
+      "date": "03.03.2024"
+    },
+    {
+      "id": "qwe1235",
+      "info": "hesaba kısıtlama geldi.",
+      "date": "15/02/2024"
+    },
+    {
+      "id": "qwe1234",
+      "info": "hesap silindi",
+      "date": "16/02/2024"
+    },
+    {
+      "id": "qwe1235",
+      "info": "şifre değiştirildi",
+      "date": "16/02/2024"
+    },
+    {
+      "id": "qwe1234",
+      "info": "güvenlik güncellendi",
+      "date": "17/02/2024"
+    },
+    {
+      "id": "qwe1235",
+      "info": "hız sınırı arttırıldı",
+      "date": "17/02/2024"
+    },
+    {
+      "id": "qwe1234",
+      "info": "özellik eklendi",
+      "date": "18/02/2024"
+    },
+    {
+      "id": "qwe1235",
+      "info": "güvenlik önlemi alındı",
+      "date": "18/02/2024"
+    },
+    {
+      "id": "qwe1234",
+      "info": "sorun giderildi",
+      "date": "19/02/2024"
+    },
+    {
+      "id": "qwe1235",
+      "info": "güncelleme yapıldı",
+      "date": "19/02/2024"
+    },
+    {
+      "info": "hesap admin tarafından silindi.",
+      "date": "13.03.2024",
+      "id": "qwe1236"
+    }
+  ]
+}
